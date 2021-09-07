@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/myeleven/static/css/main.a313883e.chunk.css",
-    "main.js": "/myeleven/static/js/main.a30a72c7.chunk.js",
-    "main.js.map": "/myeleven/static/js/main.a30a72c7.chunk.js.map",
+    "main.css": "/myeleven/static/css/main.be92d016.chunk.css",
+    "main.js": "/myeleven/static/js/main.c86224de.chunk.js",
+    "main.js.map": "/myeleven/static/js/main.c86224de.chunk.js.map",
     "runtime-main.js": "/myeleven/static/js/runtime-main.9435ae41.js",
     "runtime-main.js.map": "/myeleven/static/js/runtime-main.9435ae41.js.map",
     "static/js/2.f5662613.chunk.js": "/myeleven/static/js/2.f5662613.chunk.js",
     "static/js/2.f5662613.chunk.js.map": "/myeleven/static/js/2.f5662613.chunk.js.map",
     "index.html": "/myeleven/index.html",
-    "static/css/main.a313883e.chunk.css.map": "/myeleven/static/css/main.a313883e.chunk.css.map",
+    "static/css/main.be92d016.chunk.css.map": "/myeleven/static/css/main.be92d016.chunk.css.map",
     "static/js/2.f5662613.chunk.js.LICENSE.txt": "/myeleven/static/js/2.f5662613.chunk.js.LICENSE.txt",
-    "static/js/main.a30a72c7.chunk.js.LICENSE.txt": "/myeleven/static/js/main.a30a72c7.chunk.js.LICENSE.txt",
+    "static/js/main.c86224de.chunk.js.LICENSE.txt": "/myeleven/static/js/main.c86224de.chunk.js.LICENSE.txt",
     "static/media/css.min.css": "/myeleven/static/media/pos_PT.436fb88d.png"
   },
   "entrypoints": [
     "static/js/runtime-main.9435ae41.js",
     "static/js/2.f5662613.chunk.js",
-    "static/css/main.a313883e.chunk.css",
-    "static/js/main.a30a72c7.chunk.js"
+    "static/css/main.be92d016.chunk.css",
+    "static/js/main.c86224de.chunk.js"
   ]
 }
